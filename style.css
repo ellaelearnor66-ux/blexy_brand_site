@@ -1,1 +1,9 @@
-h
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff0f5;
+    text-align: center;
+}
+
+h1 {
+    color: #ff1493;
+}
